@@ -14,14 +14,14 @@
 
  -- -- -- -- -- -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- -- -- -- -- 
 
-#COMO O PROJETO FUNCIONA?
+<h3>COMO O PROJETO FUNCIONA?
 - Primeiro você insere o nome de dois amigos, caso o input detecte que você inseriu somente um, ele vai alertar pedindo que informe pelo menos dois nomes.
 - Depois que informado os nomes, se você errar não tem problema! O programa permite que você exclua o nome errado e coloque o correto logo após.
 - O programa vai então usar o algoritmo de Fisher Yates para selecionar o nome, gerando o resultado e exibindo logo abaixo da lista.
 - Por fim, você tem seu amigo sorteado. Legal né?!
 - O programa é um tanto simples, provavelmente não irá conseguir lidar com todo tipo de erro possível, mas é algo que cumpre sua função principal: sortear nomes.
 
-<h3>Enfim, é isso <3 Espero que tenham gostado!<\h3>
+Enfim, é isso <3 Espero que tenham gostado!
 
 
 
