@@ -21,9 +21,8 @@
 - Por fim, você tem seu amigo sorteado. Legal né?!
 - O programa é um tanto simples, provavelmente não irá conseguir lidar com todo tipo de erro possível, mas é algo que cumpre sua função principal: sortear nomes.
 
-#Enfim, é isso <3 Espero que tenham gostado! Xauzinho!!
+<h3>Enfim, é isso <3 Espero que tenham gostado!<\h3>
 
-<img width="300" height="400" alt="" src="https://i.pinimg.com/originals/f9/42/5e/f9425ec6e73ca64317310db4a3f3e05c.gif"/>
 
 
 
