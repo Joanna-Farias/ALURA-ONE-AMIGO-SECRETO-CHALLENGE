@@ -14,7 +14,7 @@
 
  -- -- -- -- -- -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- -- -- -- -- 
 
-<h3>COMO O PROJETO FUNCIONA?<\h3>
+COMO O PROJETO FUNCIONA?
 - Primeiro você insere o nome de dois amigos, caso o input detecte que você inseriu somente um, ele vai alertar pedindo que informe pelo menos dois nomes.
 - Depois que informado os nomes, se você errar não tem problema! O programa permite que você exclua o nome errado e coloque o correto logo após.
 - O programa vai então usar o algoritmo de Fisher Yates para selecionar o nome, gerando o resultado e exibindo logo abaixo da lista.
